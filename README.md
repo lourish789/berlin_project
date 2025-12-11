@@ -1,5 +1,3 @@
-# berlin_project
-
 # Berlin Archive RAG System
 
 Production-grade Retrieval-Augmented Generation (RAG) system for the Berlin Media Archive with strict attribution requirements.
