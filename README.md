@@ -341,10 +341,6 @@ Create `.vscode/launch.json`:
 4. Test thoroughly
 5. Submit a pull request
 
-## 📄 License
-
-MIT License - See LICENSE file for details
-
 ## 🆘 Support
 
 For issues or questions:
